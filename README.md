@@ -1,6 +1,4 @@
-# Bash-Projects
-
-## Login System
+# Login System
 
 ### Features
 
