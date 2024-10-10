@@ -23,7 +23,7 @@ then the following command have to be added tothe end of the ~/.bashrc or ~/.zsh
 source /home/username/file
 ```
 
-after adding this line source the ~/.zshrc or ~/.bashrc file
+- after adding this line source the ~/.zshrc or ~/.bashrc file
 
 ```bash
 source ~/.zshrc
