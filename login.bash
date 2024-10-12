@@ -11,7 +11,7 @@ login() {
 	read -s password 
 
 	if [ "$username" = "somnath" ] && [ "$password"  = "Code@1" ]; then 
-		echo -e "$(figlet -f small "access granted $username ") "
+		echo -e "$(figlet -f small "Authorization complete $username ") "
 		sleep 3
 		clear
 	else 
